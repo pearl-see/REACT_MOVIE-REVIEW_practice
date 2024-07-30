@@ -1,4 +1,4 @@
-// 2.loading page
+// 2. loading
 import { useState,useEffect } from 'react';
 import './App.css';
 
